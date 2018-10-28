@@ -1,2 +1,3 @@
 # rnnlm-pytorch-benchmark
-# rnnlm-pytorch-benchmark
+
+To run: 'python3 rnnlm.py'
